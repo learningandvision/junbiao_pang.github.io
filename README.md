@@ -16,26 +16,26 @@ I am currently an associate Professor at Beijing University of Technology and a 
 
 Institute of Computing Technology, Chinese Academy
 
-               Ph.D.              Technology for Computer Applications          09/2005～06/2011
+&emsp;&emsp;&emsp;&emsp;Ph.D.&emsp;&emsp;&emsp;&emsp;&ensp;Technology for Computer Applications&emsp;&emsp;&emsp;&emsp;09/2005～06/2011
   
 Harbin Institute of Technology  
 
-               M.S.               Computer Science and Technology            09/2002～06/2004
+&emsp;&emsp;&emsp;&emsp;M.S.&emsp;&emsp;&emsp;&emsp;&emsp;Computer Science and Technology&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;09/2002～06/2004
 
 Harbin Institute of Technology  
 
-               B.S.               Computational Fluid Dynamics               09/1998～06/2002
+&emsp;&emsp;&emsp;&emsp;B.S.&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Computational Fluid Dynamics&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&ensp;&ensp;09/1998～06/2002
 
 
 ## RESEARCH EXPERIENCE 
 
-Associate Professor        Beijing University of Technology            12/2013 - Present 
+Associate Professor&emsp;&emsp;&emsp;&emsp;&nbsp;Beijing University of Technology&emsp;&emsp;&emsp;&emsp;12/2013 - Present 
 
-Tutors             Beijing University of Technology            07/2011 - 12/2013 
+&emsp;&emsp;&emsp;Tutors&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Beijing University of Technology&emsp;&emsp;&emsp;&emsp;07/2011 - 12/2013 
 
-Visiting Scholar                NEC Labs China                  09/2010 - 07/2011
+&emsp;Visiting Scholar&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&emsp;NEC Labs China&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;09/2010 - 07/2011
 
-Engineer            Huawei Technologies Co., Ltd             07/2004 - 07/2005
+&emsp;&emsp;&emsp;Engineer&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Huawei Technologies Co., Ltd&emsp;&emsp;&emsp;&emsp;&emsp;07/2004 - 07/2005
 
 
 ## PUBLICATIONS
