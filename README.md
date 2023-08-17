@@ -15,13 +15,16 @@ I am currently an associate Professor at Beijing University of Technology and a 
 ## EDUCATION 
 
 Institute of Computing Technology, Chinese Academy
-Ph.D.              Technology for Computer Applications          09/2005～06/2011
+
+               Ph.D.              Technology for Computer Applications          09/2005～06/2011
   
 Harbin Institute of Technology  
-M.S.               Computer Science and Technology            09/2002～06/2004
+
+               M.S.               Computer Science and Technology            09/2002～06/2004
 
 Harbin Institute of Technology  
-B.S.               Computational Fluid Dynamics               09/1998～06/2002
+
+               B.S.               Computational Fluid Dynamics               09/1998～06/2002
 
 
 ## RESEARCH EXPERIENCE 
