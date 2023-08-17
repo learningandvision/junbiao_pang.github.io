@@ -1,6 +1,6 @@
-## junbiao_pang的个人主页
+# junbiao_pang的个人主页
 
-Junbiao Pang
+### Junbiao Pang
 
 Add.: No.100 Pingleyuan, Chaoyang District, Beijing Beijing Institute of Technology
 
@@ -8,11 +8,11 @@ China Tel.: 15600971177
 
 Email: junbiao_pang@bjut.edu.cn
 
-# ABOUT ME 
+## ABOUT ME 
 
 I am currently an associate Professor at Beijing University of Technology and a Ph.D. supervisor. I am a researcher of Beijing Key Laboratory, a senior member of CCF, and a member of CCF Multimedia Specialized Committee. I received Ph.D. from Prof. Qingming Huang and co-founded with him the Social Multimedia Data Analysis Group at BIT. With the support of a number of national, provincial and municipal projects, I have conducted research on image and video understanding, intelligent human-computer interaction, cross-media analysis and reasoning, and intelligent transportation. I have published more than 60 papers in IEEE/ACM journals and top academic conferences. I preside over the research projects of National Foundation, Military Science and Technology Commission, and participate in the key projects of National Foundation, 973 projects, 863 projects and other projects. I designed and developed a deep learning based structural parsing system for telecommunication drawings to support China Unicom to build a digital twin system for rapid semanticization of a large number of telecommunication drawings, designed and developed a vehicle parking behavior parsing module for on-street vehicle parking in Beijing to support the implementation of a large-scale on-street automated parking charging system in Beijing.
 
-# PUBLICATIONS
+## PUBLICATIONS
 
 1. Junbiao Pang ; Jing Huang ; Yong Du ; Haitao Yu ; Qingming Huang ; Baocai Yin：Learning to Predict Bus Arrival Time From Heterogeneous Measurements via Recurrent Neural Network,　IEEE Transactions on Intelligent Transportation Systems (SCI, JCR Q1) ( Early Access )
 2. Junbiao Pang ; Anjing Hu ; Qingming Huang ; Qi Tian ; Baocai Yin: Increasing Interpretation of Web Topic Detection via Prototype Learning From Sparse Poisson Deconvolution,IEEE Transactions on Cybernetics (SCI, JCR Q1) ( Early Access )
