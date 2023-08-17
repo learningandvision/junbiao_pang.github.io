@@ -12,6 +12,29 @@ Email: junbiao_pang@bjut.edu.cn
 
 I am currently an associate Professor at Beijing University of Technology and a Ph.D. supervisor. I am a researcher of Beijing Key Laboratory, a senior member of CCF, and a member of CCF Multimedia Specialized Committee. I received Ph.D. from Prof. Qingming Huang and co-founded with him the Social Multimedia Data Analysis Group at BIT. With the support of a number of national, provincial and municipal projects, I have conducted research on image and video understanding, intelligent human-computer interaction, cross-media analysis and reasoning, and intelligent transportation. I have published more than 60 papers in IEEE/ACM journals and top academic conferences. I preside over the research projects of National Foundation, Military Science and Technology Commission, and participate in the key projects of National Foundation, 973 projects, 863 projects and other projects. I designed and developed a deep learning based structural parsing system for telecommunication drawings to support China Unicom to build a digital twin system for rapid semanticization of a large number of telecommunication drawings, designed and developed a vehicle parking behavior parsing module for on-street vehicle parking in Beijing to support the implementation of a large-scale on-street automated parking charging system in Beijing.
 
+## EDUCATION 
+
+Institute of Computing Technology, Chinese Academy
+Ph.D.              Technology for Computer Applications          09/2005～06/2011
+  
+Harbin Institute of Technology  
+M.S.               Computer Science and Technology            09/2002～06/2004
+
+Harbin Institute of Technology  
+B.S.               Computational Fluid Dynamics               09/1998～06/2002
+
+
+## RESEARCH EXPERIENCE 
+
+Associate Professor        Beijing University of Technology            12/2013 - Present 
+
+Tutors             Beijing University of Technology            07/2011 - 12/2013 
+
+Visiting Scholar                NEC Labs China                  09/2010 - 07/2011
+
+Engineer            Huawei Technologies Co., Ltd             07/2004 - 07/2005
+
+
 ## PUBLICATIONS
 
 1. Junbiao Pang ; Jing Huang ; Yong Du ; Haitao Yu ; Qingming Huang ; Baocai Yin：Learning to Predict Bus Arrival Time From Heterogeneous Measurements via Recurrent Neural Network,　IEEE Transactions on Intelligent Transportation Systems (SCI, JCR Q1) ( Early Access )
